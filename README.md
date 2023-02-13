@@ -15,7 +15,7 @@ You can install these packages using the following command:
 To generate a QR code, simply modify the following lines in the script:
 ```
 url = "https://drive.google.com/file/d/xxxxxxxxxxxxxx/view?usp=share_link"
-title = "Party Invitation:"
+title = "TITLE:"
 ```
 
 Replace the url variable with the URL you want to generate a QR code for, and replace the title variable with the desired title to be displayed above the QR code.
